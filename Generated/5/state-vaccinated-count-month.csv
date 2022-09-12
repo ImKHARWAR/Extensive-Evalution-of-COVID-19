@@ -1,0 +1,253 @@
+State,Time Id,Dose 1,Dose 2
+Andaman and Nicobar Islands,month1,3040,0
+Andaman and Nicobar Islands,month2,8910,2876
+Andaman and Nicobar Islands,month3,42828,3203
+Andaman and Nicobar Islands,month4,45280,9051
+Andaman and Nicobar Islands,month5,16574,242
+Andaman and Nicobar Islands,month6,60381,54284
+Andaman and Nicobar Islands,month7,51303,26851
+Andhra Pradesh,month1,313509,6234
+Andhra Pradesh,month2,662569,251763
+Andhra Pradesh,month3,3027823,335544
+Andhra Pradesh,month4,1480813,1573672
+Andhra Pradesh,month5,4198737,468723
+Andhra Pradesh,month6,4507661,1213042
+Andhra Pradesh,month7,4161923,2595474
+Arunachal Pradesh,month1,13274,456
+Arunachal Pradesh,month2,36379,13295
+Arunachal Pradesh,month3,77297,20459
+Arunachal Pradesh,month4,91809,43671
+Arunachal Pradesh,month5,123064,1231
+Arunachal Pradesh,month6,269940,45372
+Arunachal Pradesh,month7,88180,73582
+Assam,month1,122161,2016
+Assam,month2,383485,90125
+Assam,month3,772218,185443
+Assam,month4,1353812,453293
+Assam,month5,1305544,223443
+Assam,month6,3105040,477912
+Assam,month7,4100097,953969
+Bihar,month1,452936,55
+Bihar,month2,744841,323974
+Bihar,month3,3517133,313921
+Bihar,month4,2465158,1051506
+Bihar,month5,3030565,233244
+Bihar,month6,6266473,902664
+Bihar,month7,8312563,1958512
+Chandigarh,month1,6712,117
+Chandigarh,month2,35522,6828
+Chandigarh,month3,69431,15953
+Chandigarh,month4,99497,50774
+Chandigarh,month5,125120,2221
+Chandigarh,month6,184220,50248
+Chandigarh,month7,204134,112527
+Chhattisgarh,month1,249309,926
+Chhattisgarh,month2,572426,220339
+Chhattisgarh,month3,3402135,235092
+Chhattisgarh,month4,834933,623105
+Chhattisgarh,month5,115012,84702
+Chhattisgarh,month6,2570291,722543
+Chhattisgarh,month7,1609112,859357
+Dadra and Nagar Haveli and Daman and Diu,month1,4060,71
+Dadra and Nagar Haveli and Daman and Diu,month2,11768,3598
+Dadra and Nagar Haveli and Daman and Diu,month3,54800,7179
+Dadra and Nagar Haveli and Daman and Diu,month4,21019,15023
+Dadra and Nagar Haveli and Daman and Diu,month5,154137,544
+Dadra and Nagar Haveli and Daman and Diu,month6,247439,37276
+Dadra and Nagar Haveli and Daman and Diu,month7,102449,23088
+Delhi,month1,178176,1967
+Delhi,month2,361111,141593
+Delhi,month3,1492695,279329
+Delhi,month4,1432578,623958
+Delhi,month5,1226016,417238
+Delhi,month6,2311888,687169
+Delhi,month7,1158322,1046233
+Goa,month1,13277,309
+Goa,month2,52462,12329
+Goa,month3,108170,26575
+Goa,month4,168334,55002
+Goa,month5,217427,4308
+Goa,month6,395033,91750
+Goa,month7,152677,130830
+Gujarat,month1,761549,6
+Gujarat,month2,1446636,564423
+Gujarat,month3,6520133,733942
+Gujarat,month4,2484726,2544167
+Gujarat,month5,4766200,765369
+Gujarat,month6,6005444,1911271
+Gujarat,month7,7722570,3005480
+Haryana,month1,178074,590
+Haryana,month2,383046,117186
+Haryana,month3,2035014,159644
+Haryana,month4,1381261,638933
+Haryana,month5,1820480,161228
+Haryana,month6,2526060,785708
+Haryana,month7,2066486,1266397
+Himachal Pradesh,month1,76743,449
+Himachal Pradesh,month2,126268,69839
+Himachal Pradesh,month3,867567,51664
+Himachal Pradesh,month4,713968,310723
+Himachal Pradesh,month5,394255,3311
+Himachal Pradesh,month6,1313152,519336
+Himachal Pradesh,month7,1273522,531686
+Jammu and Kashmir,month1,118293,722
+Jammu and Kashmir,month2,290745,80489
+Jammu and Kashmir,month3,876366,133525
+Jammu and Kashmir,month4,1027903,318250
+Jammu and Kashmir,month5,833333,52778
+Jammu and Kashmir,month6,1265148,290079
+Jammu and Kashmir,month7,1100405,684334
+Jharkhand,month1,203227,2197
+Jharkhand,month2,317595,168395
+Jharkhand,month3,1797423,151935
+Jharkhand,month4,558751,341975
+Jharkhand,month5,1508318,150775
+Jharkhand,month6,2199315,569165
+Jharkhand,month7,2109233,716241
+Karnataka,month1,435820,15
+Karnataka,month2,835466,350530
+Karnataka,month3,4789673,292798
+Karnataka,month4,2866245,1853909
+Karnataka,month5,5292775,545597
+Karnataka,month6,7311214,1910430
+Karnataka,month7,4868239,2779554
+Kerala,month1,340407,45
+Kerala,month2,847692,312329
+Kerala,month3,3711403,284677
+Kerala,month4,1526695,1394592
+Kerala,month5,2727867,276428
+Kerala,month6,2633814,2150312
+Kerala,month7,5035164,2168271
+Ladakh,month1,2831,71
+Ladakh,month2,32742,3282
+Ladakh,month3,31345,6199
+Ladakh,month4,19727,27700
+Ladakh,month5,68393,141
+Ladakh,month6,29312,24324
+Ladakh,month7,5045,10481
+Lakshadweep,month1,1575,0
+Lakshadweep,month2,1178,1107
+Lakshadweep,month3,10421,1772
+Lakshadweep,month4,8278,3927
+Lakshadweep,month5,19270,288
+Lakshadweep,month6,7962,4790
+Lakshadweep,month7,2918,5774
+Madhya Pradesh,month1,548466,3
+Madhya Pradesh,month2,656066,377482
+Madhya Pradesh,month3,5143987,331156
+Madhya Pradesh,month4,1124322,982065
+Madhya Pradesh,month5,4979599,300490
+Madhya Pradesh,month6,8200526,1922155
+Madhya Pradesh,month7,10276118,2024290
+Maharashtra,month1,653135,170
+Maharashtra,month2,1663822,468330
+Maharashtra,month3,8039381,686185
+Maharashtra,month4,5350073,3051865
+Maharashtra,month5,5321082,1029052
+Maharashtra,month6,8530038,3130909
+Maharashtra,month7,6197234,4106146
+Manipur,month1,21284,169
+Manipur,month2,50162,12989
+Manipur,month3,26309,34536
+Manipur,month4,209517,22031
+Manipur,month5,164856,1841
+Manipur,month6,380317,22933
+Manipur,month7,319465,168863
+Meghalaya,month1,12906,91
+Meghalaya,month2,48535,14059
+Meghalaya,month3,59262,28389
+Meghalaya,month4,206059,31522
+Meghalaya,month5,115337,668
+Meghalaya,month6,304420,32211
+Meghalaya,month7,218102,146241
+Mizoram,month1,10365,75
+Mizoram,month2,39481,10566
+Mizoram,month3,55208,19660
+Mizoram,month4,133749,20666
+Mizoram,month5,66161,1383
+Mizoram,month6,295345,56610
+Mizoram,month7,59301,108414
+Nagaland,month1,9175,123
+Nagaland,month2,32833,11842
+Nagaland,month3,60965,18112
+Nagaland,month4,79075,21700
+Nagaland,month5,115056,647
+Nagaland,month6,231472,52282
+Nagaland,month7,110240,62891
+Odisha,month1,360676,3
+Odisha,month2,611983,297734
+Odisha,month3,3138648,266099
+Odisha,month4,1144878,841541
+Odisha,month5,2150906,248653
+Odisha,month6,3587454,1167097
+Odisha,month7,3818291,1580594
+Puducherry,month1,5243,68
+Puducherry,month2,22633,4192
+Puducherry,month3,108630,7697
+Puducherry,month4,46532,38498
+Puducherry,month5,97812,2722
+Puducherry,month6,226149,68514
+Puducherry,month7,105573,33823
+Punjab,month1,91988,62
+Punjab,month2,246590,72440
+Punjab,month3,1643104,110825
+Punjab,month4,1507217,522940
+Punjab,month5,935764,115852
+Punjab,month6,1915261,635223
+Punjab,month7,1956645,998426
+Rajasthan,month1,586110,0
+Rajasthan,month2,2165457,471429
+Rajasthan,month3,6341788,792903
+Rajasthan,month4,3058048,1719747
+Rajasthan,month5,4396882,363190
+Rajasthan,month6,5790084,1757705
+Rajasthan,month7,5736030,3720282
+Sikkim,month1,8042,0
+Sikkim,month2,34774,8138
+Sikkim,month3,87302,10299
+Sikkim,month4,36082,41157
+Sikkim,month5,60426,242
+Sikkim,month6,224411,65751
+Sikkim,month7,49451,31377
+Tamil Nadu,month1,195796,671
+Tamil Nadu,month2,1087020,140356
+Tamil Nadu,month3,2518915,373027
+Tamil Nadu,month4,1361103,1397178
+Tamil Nadu,month5,3814032,259788
+Tamil Nadu,month6,6345655,1054698
+Tamil Nadu,month7,6119471,1612530
+Telangana,month1,210201,2337
+Telangana,month2,297667,212368
+Telangana,month3,1775475,123787
+Telangana,month4,2166685,725218
+Telangana,month5,2367858,285874
+Telangana,month6,3889310,784141
+Telangana,month7,1236955,1983528
+Tripura,month1,61525,334
+Tripura,month2,100515,56953
+Tripura,month3,585033,40937
+Tripura,month4,238457,408437
+Tripura,month5,179158,10340
+Tripura,month6,944690,156025
+Tripura,month7,319860,147837
+Uttar Pradesh,month1,864487,2
+Uttar Pradesh,month2,1592362,731671
+Uttar Pradesh,month3,6333236,750656
+Uttar Pradesh,month4,2933286,1777906
+Uttar Pradesh,month5,7885024,576863
+Uttar Pradesh,month6,13057598,2334337
+Uttar Pradesh,month7,15474263,2765306
+Uttarakhand,month1,111576,410
+Uttarakhand,month2,188716,97844
+Uttarakhand,month3,953778,114795
+Uttarakhand,month4,710860,467360
+Uttarakhand,month5,706294,25379
+Uttarakhand,month6,1296985,350422
+Uttarakhand,month7,1448249,640170
+West Bengal,month1,484229,1136
+West Bengal,month2,1915986,416820
+West Bengal,month3,5015164,635470
+West Bengal,month4,1539702,2664562
+West Bengal,month5,4842995,351380
+West Bengal,month6,4338071,2828840
+West Bengal,month7,6345717,2440725

@@ -1,0 +1,623 @@
+District_Id,Wave 1 Week Id,Wave 2 Week Id,Wave 1 Month Id,Wave 2 Month Id
+AP_Anantapur,week28,week110,month4,month13
+AP_Chittoor,week37,week111,month5,month13
+AP_East Godavari,week40,week111,month5,month13
+AP_Guntur,week27,week109,month4,month13
+AP_Krishna,week46,week111,month6,month13
+AP_Kurnool,week30,week107,month4,month13
+AP_Prakasam,week38,week107,month5,month13
+AP_S.P.S. Nellore,week38,week108,month5,month13
+AP_Srikakulam,week36,week106,month5,month13
+AP_Visakhapatnam,week28,week108,month4,month13
+AP_Vizianagaram,week38,week107,month5,month13
+AP_West Godavari,week39,week111,month5,month13
+AP_Y.S.R. Kadapa,week37,week109,month5,month13
+AR_Anjaw,week46,week115,month6,month14
+AR_Changlang,week47,week113,month6,month14
+AR_East Kameng,week30,week116,month4,month14
+AR_East Siang,week50,week125,month6,month15
+AR_Kamle,week45,week126,month6,month15
+AR_Kra Daadi,week45,week117,month6,month14
+AR_Kurung Kumey,week44,week122,month6,month15
+AR_Lepa Rada,week48,week129,month6,month15
+AR_Lohit,week51,week129,month6,month15
+AR_Longding,week43,week126,month5,month15
+AR_Lower Dibang Valley,week49,week105,month6,month13
+AR_Lower Siang,week45,week133,month6,month13
+AR_Lower Subansiri,week40,week133,month6,month14
+AR_Namsai,week29,week113,month6,month14
+AR_Pakke Kessang,week42,week123,month5,month15
+AR_Papum Pare,week43,week129,month6,month15
+AR_Shi Yomi,week56,week125,month7,month12
+AR_Siang,week36,week128,month6,month15
+AR_Tawang,week37,week113,month5,month14
+AR_Tirap,week47,week130,month6,month15
+AR_Upper Dibang Valley,week47,week114,month6,month14
+AR_Upper Siang,week51,week112,month6,month14
+AR_Upper Subansiri,week33,week123,month6,month15
+AR_West Kameng,week32,week126,month4,month15
+AR_West Siang,week47,week130,month6,month15
+AS_Dibrugarh,week27,week107,month4,month14
+AS_Udalguri,week22,week102,month3,month13
+BR_Araria,week31,week108,month5,month13
+BR_Arwal,week32,week107,month4,month13
+BR_Aurangabad,week32,week104,month4,month13
+BR_Banka,week30,week105,month4,month13
+BR_Begusarai,week31,week105,month4,month13
+BR_Bhagalpur,week30,week104,month4,month13
+BR_Bhojpur,week30,week103,month4,month13
+BR_Buxar,week30,week104,month4,month13
+BR_Darbhanga,week31,week106,month4,month13
+BR_East Champaran,week31,week108,month4,month13
+BR_Gaya,week31,week105,month4,month13
+BR_Gopalganj,week30,week106,month4,month13
+BR_Jamui,week27,week107,month4,month13
+BR_Jehanabad,week31,week104,month4,month13
+BR_Kaimur,week31,week104,month4,month13
+BR_Katihar,week30,week108,month4,month13
+BR_Khagaria,week28,week106,month4,month13
+BR_Kishanganj,week31,week110,month4,month13
+BR_Lakhisarai,week32,week105,month4,month13
+BR_Madhepura,week31,week106,month4,month13
+BR_Madhubani,week32,week107,month4,month13
+BR_Munger,week30,week108,month4,month13
+BR_Muzaffarpur,week33,week107,month4,month13
+BR_Nalanda,week27,week106,month4,month13
+BR_Nawada,week27,week105,month4,month13
+BR_Patna,week30,week107,month4,month13
+BR_Purnia,week32,week105,month4,month13
+BR_Rohtas,week30,week105,month4,month13
+BR_Saharsa,week31,week106,month4,month13
+BR_Samastipur,week30,week108,month4,month13
+BR_Saran,week31,week104,month4,month13
+BR_Sheikhpura,week30,week107,month4,month13
+BR_Sheohar,week31,week107,month4,month13
+BR_Sitamarhi,week32,week106,month4,month13
+BR_Siwan,week23,week106,month4,month13
+BR_Supaul,week41,week105,month5,month13
+BR_Vaishali,week30,week107,month4,month13
+BR_West Champaran,week31,week106,month4,month13
+CH_Chandigarh,week40,week107,month5,month13
+CT_Balod,week55,week104,month8,month13
+CT_Baloda Bazar,week41,week105,month6,month13
+CT_Balrampur,week50,week108,month6,month13
+CT_Bametara,week55,week100,month7,month12
+CT_Bastar,week80,week104,month6,month13
+CT_Bijapur,week47,week116,month6,month14
+CT_Bilaspur,week41,week104,month5,month13
+CT_Dakshin Bastar Dantewada,week44,week107,month6,month13
+CT_Dhamtari,week42,week104,month6,month13
+CT_Durg,week42,week100,month5,month12
+CT_Gariaband,week80,week102,month6,month13
+CT_Janjgir Champa,week48,week107,month6,month13
+CT_Jashpur,week50,week107,month6,month13
+CT_Kabeerdham,week40,week105,month6,month13
+CT_Kondagaon,week49,week107,month6,month13
+CT_Korba,week48,week106,month6,month13
+CT_Koriya,week45,week108,month6,month13
+CT_Mahasamund,week79,week106,month8,month13
+CT_Mungeli,week44,week106,month6,month13
+CT_Narayanpur,week42,week109,month5,month13
+CT_Raigarh,week45,week107,month6,month13
+CT_Raipur,week39,week101,month5,month12
+CT_Rajnandgaon,week40,week101,month5,month12
+CT_Sukma,week44,week115,month6,month14
+CT_Surajpur,week50,week108,month6,month13
+CT_Surguja,week44,week107,month6,month13
+CT_Uttar Bastar Kanker,week47,week104,month6,month13
+DN_Daman,week28,week104,month4,month13
+DN_Diu,week36,week114,month4,month13
+GJ_Ahmedabad,week2,week104,month1,month13
+GJ_Amreli,week31,week109,month4,month13
+GJ_Anand,week61,week109,month8,month13
+GJ_Aravalli,week54,week108,month7,month13
+GJ_Banaskantha,week60,week104,month7,month13
+GJ_Bharuch,week45,week102,month6,month13
+GJ_Bhavnagar,week36,week106,month5,month13
+GJ_Botad,week28,week102,month5,month13
+GJ_Chhota Udaipur,week36,week107,month5,month13
+GJ_Dahod,week27,week105,month4,month13
+GJ_Dang,week36,week105,month5,month13
+GJ_Devbhumi Dwarka,week36,week109,month5,month13
+GJ_Gandhinagar,week60,week105,month8,month13
+GJ_Gir Somnath,week31,week108,month4,month13
+GJ_Jamnagar,week41,week106,month5,month13
+GJ_Junagadh,week23,week109,month5,month13
+GJ_Kheda,week63,week106,month8,month13
+GJ_Kutch,week43,week104,month5,month13
+GJ_Mahisagar,week60,week105,month8,month13
+GJ_Mehsana,week63,week107,month8,month13
+GJ_Morbi,week32,week106,month5,month13
+GJ_Narmada,week51,week106,month6,month13
+GJ_Navsari,week26,week106,month3,month13
+GJ_Panchmahal,week33,week108,month5,month13
+GJ_Patan,week61,week105,month8,month13
+GJ_Porbandar,week34,week111,month4,month13
+GJ_Rajkot,week45,week102,month5,month13
+GJ_Sabarkantha,week51,week110,month8,month13
+GJ_Surat,week44,week103,month5,month13
+GJ_Surendranagar,week27,week105,month6,month13
+GJ_Tapi,week38,week105,month5,month13
+GJ_Vadodara,week63,week109,month8,month13
+GJ_Valsad,week27,week106,month3,month13
+HP_Bilaspur,week63,week109,month8,month13
+HP_Chamba,week64,week109,month8,month13
+HP_Hamirpur,week61,week108,month8,month13
+HP_Kangra,week64,week108,month8,month13
+HP_Kinnaur,week64,week111,month8,month13
+HP_Kullu,week60,week108,month7,month13
+HP_Lahaul and Spiti,week59,week106,month7,month13
+HP_Mandi,week57,week108,month8,month13
+HP_Shimla,week63,week108,month8,month13
+HP_Sirmaur,week41,week109,month5,month13
+HP_Solan,week40,week107,month8,month13
+HP_Una,week41,week109,month5,month13
+HR_Ambala,week40,week107,month5,month13
+HR_Bhiwani,week57,week109,month7,month13
+HR_Charkhi Dadri,week41,week108,month7,month13
+HR_Faridabad,week59,week107,month7,month13
+HR_Fatehabad,week40,week108,month5,month13
+HR_Gurugram,week60,week106,month7,month13
+HR_Hisar,week57,week108,month7,month13
+HR_Jhajjar,week39,week110,month7,month13
+HR_Jind,week42,week105,month5,month13
+HR_Kaithal,week36,week106,month5,month13
+HR_Karnal,week39,week105,month5,month13
+HR_Kurukshetra,week39,week108,month5,month13
+HR_Mahendragarh,week57,week108,month7,month13
+HR_Nuh,week39,week107,month5,month13
+HR_Palwal,week42,week109,month5,month13
+HR_Panchkula,week39,week108,month5,month13
+HR_Panipat,week39,week107,month5,month13
+HR_Rewari,week56,week112,month7,month13
+HR_Rohtak,week41,week106,month7,month13
+HR_Sirsa,week40,week109,month5,month13
+HR_Sonipat,week41,week107,month5,month13
+HR_Yamunanagar,week39,week107,month5,month13
+JH_Bokaro,week38,week107,month5,month13
+JH_Chatra,week36,week105,month5,month13
+JH_Deoghar,week28,week105,month5,month13
+JH_Dhanbad,week34,week104,month5,month13
+JH_Dumka,week36,week104,month5,month13
+JH_East Singhbhum,week38,week107,month5,month13
+JH_Garhwa,week43,week109,month5,month13
+JH_Giridih,week37,week107,month5,month13
+JH_Godda,week28,week106,month5,month13
+JH_Gumla,week40,week107,month5,month13
+JH_Hazaribagh,week38,week106,month5,month13
+JH_Jamtara,week36,week104,month5,month13
+JH_Khunti,week38,week108,month5,month13
+JH_Koderma,week36,week104,month5,month13
+JH_Latehar,week36,week107,month5,month13
+JH_Lohardaga,week44,week105,month5,month13
+JH_Pakur,week36,week108,month5,month13
+JH_Palamu,week42,week109,month4,month13
+JH_Ramgarh,week38,week104,month5,month13
+JH_Ranchi,week37,week104,month5,month13
+JH_Sahibganj,week36,week103,month5,month13
+JH_Saraikela-Kharsawan,week38,week106,month5,month13
+JH_Simdega,week39,week107,month5,month13
+JH_West Singhbhum,week38,week108,month5,month13
+JK_Anantnag,week41,week107,month5,month13
+JK_Bandipora,week40,week111,month5,month13
+JK_Baramulla,week54,week107,month7,month13
+JK_Budgam,week40,week108,month5,month13
+JK_Doda,week41,week109,month5,month14
+JK_Ganderbal,week41,week112,month5,month13
+JK_Jammu,week38,week108,month5,month13
+JK_Kathua,week41,week108,month5,month13
+JK_Kishtwar,week40,week109,month6,month13
+JK_Kulgam,week25,week108,month3,month13
+JK_Kupwara,week39,week113,month5,month13
+JK_Pulwama,week40,week109,month5,month13
+JK_Punch,week40,week110,month5,month13
+JK_Rajouri,week41,week108,month5,month13
+JK_Ramban,week42,week111,month5,month13
+JK_Reasi,week44,week102,month6,month13
+JK_Samba,week42,week109,month5,month13
+JK_Shopiyan,week25,week108,month3,month13
+JK_Srinagar,week39,week106,month5,month13
+JK_Udhampur,week40,week110,month5,month13
+KA_Bagalkote,week39,week108,month5,month13
+KA_Ballari,week31,week110,month4,month13
+KA_Belagavi,week37,week110,month4,month13
+KA_Bengaluru Rural,week50,week110,month6,month13
+KA_Bengaluru Urban,week47,week107,month6,month13
+KA_Bidar,week32,week107,month4,month13
+KA_Chamarajanagara,week46,week108,month6,month13
+KA_Chikkaballapura,week50,week107,month6,month13
+KA_Chikkamagaluru,week45,week110,month6,month13
+KA_Chitradurga,week48,week114,month6,month14
+KA_Dakshina Kannada,week40,week108,month5,month13
+KA_Davanagere,week36,week111,month5,month14
+KA_Dharwad,week37,week111,month5,month13
+KA_Gadag,week37,week110,month5,month13
+KA_Hassan,week47,week108,month6,month13
+KA_Haveri,week39,week112,month5,month13
+KA_Kalaburagi,week27,week107,month4,month13
+KA_Kodagu,week48,week108,month6,month13
+KA_Kolar,week47,week108,month6,month13
+KA_Koppal,week37,week111,month5,month13
+KA_Mandya,week45,week109,month6,month13
+KA_Mysuru,week47,week106,month5,month13
+KA_Raichur,week30,week108,month5,month13
+KA_Ramanagara,week47,week107,month5,month13
+KA_Shivamogga,week32,week110,month5,month13
+KA_Tumakuru,week48,week108,month6,month13
+KA_Udupi,week33,week108,month4,month13
+KA_Uttara Kannada,week40,week110,month5,month13
+KA_Vijayapura,week31,week108,month4,month13
+KA_Yadgir,week33,week108,month5,month13
+KL_Alappuzha,week54,week107,month7,month13
+KL_Ernakulam,week46,week108,month6,month13
+KL_Idukki,week78,week106,month9,month13
+KL_Kannur,week47,week108,month6,month13
+KL_Kasaragod,week46,week108,month6,month13
+KL_Kollam,week47,week110,month6,month13
+KL_Kottayam,week68,week106,month9,month13
+KL_Kozhikode,week47,week106,month6,month13
+KL_Malappuram,week48,week109,month6,month13
+KL_Palakkad,week46,week109,month6,month13
+KL_Pathanamthitta,week77,week108,month10,month13
+KL_Thiruvananthapuram,week46,week108,month6,month13
+KL_Thrissur,week54,week106,month7,month13
+KL_Wayanad,week77,week107,month9,month13
+LA_Kargil,week14,week109,month2,month13
+LA_Leh,week56,week102,month7,month13
+MH_Ahmednagar,week41,week107,month5,month13
+MH_Akola,week41,week94,month5,month13
+MH_Amravati,week40,week111,month5,month13
+MH_Aurangabad,week39,week95,month5,month12
+MH_Beed,week41,week106,month5,month13
+MH_Bhandara,week44,week101,month6,month12
+MH_Buldhana,week40,week107,month5,month13
+MH_Chandrapur,week45,week103,month5,month13
+MH_Dhule,week38,week99,month5,month12
+MH_Gadchiroli,week48,week103,month6,month13
+MH_Gondia,week43,week102,month6,month13
+MH_Hingoli,week43,week102,month5,month13
+MH_Jalgaon,week40,week100,month5,month12
+MH_Jalna,week50,week103,month5,month13
+MH_Kolhapur,week39,week113,month5,month15
+MH_Latur,week39,week101,month5,month12
+MH_Mumbai,week45,week99,month6,month12
+MH_Nagpur,week41,week103,month5,month12
+MH_Nanded,week38,week100,month5,month12
+MH_Nandurbar,week36,week105,month5,month12
+MH_Nashik,week42,week105,month5,month13
+MH_Osmanabad,week41,week105,month5,month13
+MH_Palghar,week40,week104,month5,month13
+MH_Parbhani,week38,week105,month5,month13
+MH_Pune,week39,week102,month5,month12
+MH_Raigad,week39,week103,month5,month13
+MH_Ratnagiri,week41,week109,month5,month13
+MH_Sangli,week41,week107,month5,month13
+MH_Satara,week40,week113,month5,month13
+MH_Sindhudurg,week38,week116,month5,month14
+MH_Solapur,week40,week110,month5,month13
+MH_Thane,week22,week99,month3,month12
+MH_Wardha,week43,week105,month6,month13
+MH_Washim,week42,week108,month5,month13
+MH_Yavatmal,week42,week104,month5,month13
+ML_East Garo Hills,week36,week120,month7,month14
+ML_East Jaintia Hills,week40,week112,month5,month14
+ML_East Khasi Hills,week46,week112,month6,month14
+ML_North Garo Hills,week43,week123,month6,month15
+ML_Ribhoi,week46,week112,month6,month15
+ML_South Garo Hills,week60,week119,month7,month14
+ML_South West Garo Hills,week45,week113,month7,month14
+ML_South West Khasi Hills,week48,week118,month6,month14
+ML_West Garo Hills,week59,week128,month7,month11
+ML_West Jaintia Hills,week55,week130,month7,month14
+ML_West Khasi Hills,week49,week132,month6,month12
+MN_Churachandpur,week29,week109,month4,month14
+MP_Agar Malwa,week39,week102,month5,month13
+MP_Alirajpur,week36,week103,month5,month13
+MP_Anuppur,week42,week107,month5,month13
+MP_Ashoknagar,week59,week104,month7,month13
+MP_Balaghat,week48,week103,month6,month13
+MP_Barwani,week27,week102,month4,month12
+MP_Betul,week41,week102,month5,month13
+MP_Bhind,week43,week105,month5,month13
+MP_Bhopal,week48,week104,month8,month13
+MP_Burhanpur,week6,week108,month1,month12
+MP_Chhatarpur,week42,week104,month5,month13
+MP_Chhindwara,week48,week100,month6,month12
+MP_Damoh,week41,week107,month5,month13
+MP_Datia,week38,week105,month5,month13
+MP_Dewas,week44,week105,month6,month13
+MP_Dhar,week41,week105,month5,month13
+MP_Dindori,week43,week103,month6,month13
+MP_Guna,week41,week102,month5,month13
+MP_Gwalior,week41,week104,month5,month13
+MP_Harda,week45,week104,month6,month13
+MP_Hoshangabad,week49,week107,month6,month13
+MP_Indore,week61,week105,month8,month13
+MP_Jabalpur,week42,week103,month5,month13
+MP_Jhabua,week40,week102,month5,month13
+MP_Katni,week48,week103,month6,month13
+MP_Khandwa,week43,week99,month5,month12
+MP_Khargone,week40,week104,month5,month13
+MP_Mandla,week43,week104,month5,month13
+MP_Mandsaur,week48,week106,month5,month13
+MP_Morena,week20,week104,month3,month13
+MP_Narsinghpur,week40,week105,month5,month13
+MP_Neemuch,week42,week105,month5,month13
+MP_Panna,week42,week105,month5,month13
+MP_Raisen,week39,week102,month6,month13
+MP_Rajgarh,week34,week102,month4,month13
+MP_Ratlam,week60,week108,month8,month13
+MP_Rewa,week48,week105,month5,month13
+MP_Sagar,week41,week104,month6,month13
+MP_Satna,week42,week106,month6,month13
+MP_Sehore,week48,week105,month5,month13
+MP_Seoni,week43,week103,month5,month13
+MP_Shahdol,week43,week104,month5,month13
+MP_Shajapur,week40,week102,month6,month12
+MP_Sheopur,week39,week106,month5,month13
+MP_Shivpuri,week39,week107,month5,month13
+MP_Sidhi,week44,week104,month6,month13
+MP_Singrauli,week46,week104,month6,month13
+MP_Tikamgarh,week42,week105,month5,month13
+MP_Ujjain,week42,week107,month5,month13
+MP_Umaria,week42,week106,month6,month13
+MP_Vidisha,week60,week103,month5,month13
+MZ_Aizawl,week53,week131,month7,month11
+MZ_Champhai,week55,week135,month7,month12
+MZ_Kolasib,week32,week135,month4,month12
+MZ_Lawngtlai,week60,week126,month8,month12
+MZ_Lunglei,week46,week129,month6,month12
+MZ_Mamit,week57,week134,month7,month13
+MZ_Saiha,week18,week132,month3,month12
+MZ_Serchhip,week60,week107,month8,month13
+NL_Dimapur,week28,week108,month6,month13
+NL_Kiphire,week65,week113,month8,month14
+NL_Kohima,week31,week110,month4,month13
+NL_Longleng,week45,week128,month6,month12
+NL_Mokokchung,week49,week116,month6,month14
+NL_Mon,week28,week111,month4,month13
+NL_Peren,week59,week133,month3,month11
+NL_Phek,week26,week113,month3,month14
+NL_Tuensang,week59,week113,month6,month14
+NL_Wokha,week64,week115,month4,month14
+NL_Zunheboto,week29,week111,month4,month14
+OR_Angul,week49,week112,month6,month14
+OR_Balangir,week40,week110,month6,month13
+OR_Balasore,week43,week112,month5,month14
+OR_Bargarh,week38,week107,month5,month13
+OR_Bhadrak,week38,week110,month5,month14
+OR_Boudh,week42,week112,month5,month14
+OR_Cuttack,week43,week112,month5,month13
+OR_Deogarh,week47,week109,month6,month13
+OR_Dhenkanal,week40,week113,month5,month14
+OR_Gajapati,week27,week106,month4,month13
+OR_Ganjam,week26,week109,month4,month13
+OR_Jagatsinghpur,week43,week112,month5,month14
+OR_Jajpur,week39,week116,month5,month14
+OR_Jharsuguda,week43,week109,month5,month13
+OR_Kalahandi,week42,week108,month6,month13
+OR_Kandhamal,week43,week112,month5,month14
+OR_Kendrapara,week40,week115,month5,month14
+OR_Kendujhar,week45,week108,month6,month13
+OR_Khordha,week38,week109,month5,month13
+OR_Koraput,week34,week111,month5,month14
+OR_Malkangiri,week34,week114,month5,month14
+OR_Mayurbhanj,week37,week112,month5,month14
+OR_Nabarangapur,week40,week107,month5,month13
+OR_Nayagarh,week34,week112,month5,month13
+OR_Nuapada,week44,week103,month6,month13
+OR_Puri,week40,week112,month5,month13
+OR_Rayagada,week35,week112,month5,month14
+OR_Sambalpur,week41,week110,month5,month13
+OR_Subarnapur,week39,week111,month5,month13
+OR_Sundargarh,week49,week108,month6,month13
+PB_Amritsar,week41,week107,month5,month13
+PB_Barnala,week36,week111,month5,month13
+PB_Bathinda,week39,week108,month5,month13
+PB_Faridkot,week41,week109,month5,month13
+PB_Fatehgarh Sahib,week41,week111,month5,month13
+PB_Fazilka,week42,week109,month5,month13
+PB_Ferozepur,week42,week110,month5,month13
+PB_Gurdaspur,week39,week107,month5,month13
+PB_Hoshiarpur,week40,week109,month5,month13
+PB_Jalandhar,week39,week107,month5,month13
+PB_Kapurthala,week40,week109,month5,month13
+PB_Ludhiana,week41,week108,month5,month13
+PB_Mansa,week41,week108,month5,month13
+PB_Moga,week33,week107,month4,month13
+PB_Pathankot,week40,week108,month5,month13
+PB_Patiala,week40,week108,month5,month13
+PB_Rupnagar,week41,week109,month5,month13
+PB_S.A.S. Nagar,week41,week108,month5,month13
+PB_Sangrur,week41,week107,month5,month13
+PB_Shahid Bhagat Singh Nagar,week42,week91,month5,month11
+PB_Sri Muktsar Sahib,week39,week111,month5,month13
+PB_Tarn Taran,week42,week97,month5,month13
+PY_Karaikal,week43,week111,month6,month13
+PY_Mahe,week47,week105,month6,month13
+PY_Puducherry,week35,week110,month5,month13
+RJ_Ajmer,week60,week104,month7,month13
+RJ_Alwar,week60,week105,month4,month13
+RJ_Banswara,week41,week105,month5,month13
+RJ_Baran,week38,week106,month5,month13
+RJ_Barmer,week24,week108,month4,month13
+RJ_Bharatpur,week62,week109,month8,month13
+RJ_Bhilwara,week46,week103,month6,month13
+RJ_Bikaner,week48,week106,month6,month13
+RJ_Bundi,week61,week105,month8,month13
+RJ_Chittorgarh,week38,week107,month8,month13
+RJ_Churu,week45,week107,month6,month13
+RJ_Dausa,week50,week109,month6,month13
+RJ_Dholpur,week33,week104,month4,month13
+RJ_Dungarpur,week63,week108,month8,month13
+RJ_Ganganagar,week51,week107,month7,month13
+RJ_Hanumangarh,week61,week106,month7,month13
+RJ_Jaipur,week62,week107,month8,month13
+RJ_Jaisalmer,week61,week109,month8,month13
+RJ_Jalore,week43,week106,month6,month13
+RJ_Jhalawar,week37,week106,month5,month13
+RJ_Jhunjhunu,week54,week109,month7,month13
+RJ_Jodhpur,week61,week107,month6,month13
+RJ_Karauli,week44,week107,month6,month13
+RJ_Kota,week61,week103,month8,month13
+RJ_Nagaur,week61,week109,month8,month13
+RJ_Pali,week60,week106,month8,month13
+RJ_Pratapgarh,week40,week106,month5,month13
+RJ_Rajsamand,week65,week109,month8,month13
+RJ_Sawai Madhopur,week61,week104,month8,month13
+RJ_Sikar,week52,week105,month7,month13
+RJ_Sirohi,week60,week103,month8,month13
+RJ_Tonk,week60,week106,month8,month13
+RJ_Udaipur,week61,week106,month6,month13
+TN_Ariyalur,week32,week112,month4,month14
+TN_Chennai,week19,week109,month3,month13
+TN_Coimbatore,week43,week113,month5,month14
+TN_Cuddalore,week38,week111,month5,month14
+TN_Dharmapuri,week43,week112,month6,month14
+TN_Dindigul,week30,week112,month4,month13
+TN_Erode,week43,week114,month6,month14
+TN_Kallakurichi,week26,week113,month5,month14
+TN_Kancheepuram,week26,week111,month4,month13
+TN_Kanyakumari,week26,week112,month4,month14
+TN_Karur,week42,week114,month5,month14
+TN_Krishnagiri,week43,week112,month6,month13
+TN_Madurai,week23,week112,month3,month13
+TN_Nagapattinam,week40,week114,month5,month14
+TN_Namakkal,week47,week114,month6,month14
+TN_Nilgiris,week44,week115,month6,month14
+TN_Perambalur,week30,week113,month4,month14
+TN_Pudukkottai,week32,week112,month4,month14
+TN_Ramanathapuram,week19,week112,month3,month13
+TN_Salem,week36,week115,month5,month14
+TN_Sivaganga,week24,week112,month4,month14
+TN_Thanjavur,week46,week113,month6,month14
+TN_Theni,week30,week111,month4,month13
+TN_Thiruvallur,week26,week111,month4,month13
+TN_Thiruvarur,week39,week112,month5,month14
+TN_Thoothukkudi,week26,week111,month4,month13
+TN_Tiruchirappalli,week26,week111,month4,month14
+TN_Tirunelveli,week27,week109,month4,month13
+TN_Tiruppur,week43,week113,month6,month14
+TN_Tiruvannamalai,week38,week112,month5,month14
+TN_Vellore,week27,week108,month4,month13
+TN_Viluppuram,week36,week114,month5,month14
+TN_Virudhunagar,week26,week112,month4,month14
+TR_Dhalai,week38,week123,month5,month15
+TR_Gomati,week41,week128,month5,month15
+TR_Khowai,week37,week116,month5,month14
+TR_North Tripura,week38,week119,month5,month14
+TR_Sipahijala,week38,week112,month5,month14
+TR_South Tripura,week43,week112,month5,month14
+TR_Unokoti,week41,week126,month5,month14
+TR_West Tripura,week38,week111,month5,month14
+UP_Agra,week42,week105,month5,month13
+UP_Aligarh,week40,week107,month5,month13
+UP_Ambedkar Nagar,week39,week110,month5,month13
+UP_Amethi,week39,week103,month5,month13
+UP_Amroha,week44,week107,month6,month13
+UP_Auraiya,week38,week103,month5,month13
+UP_Ayodhya,week35,week104,month5,month13
+UP_Azamgarh,week30,week107,month4,month13
+UP_Baghpat,week40,week106,month8,month13
+UP_Bahraich,week29,week104,month4,month13
+UP_Ballia,week26,week104,month4,month13
+UP_Balrampur,week42,week103,month5,month13
+UP_Banda,week36,week104,month5,month13
+UP_Barabanki,week39,week103,month5,month13
+UP_Bareilly,week31,week105,month4,month13
+UP_Basti,week31,week104,month4,month13
+UP_Bhadohi,week26,week104,month4,month13
+UP_Bijnor,week37,week105,month5,month13
+UP_Budaun,week34,week107,month5,month13
+UP_Bulandshahr,week40,week108,month5,month13
+UP_Chandauli,week40,week104,month5,month13
+UP_Chitrakoot,week42,week107,month5,month13
+UP_Deoria,week34,week107,month4,month13
+UP_Etah,week39,week105,month5,month13
+UP_Etawah,week40,week103,month5,month13
+UP_Farrukhabad,week45,week103,month6,month13
+UP_Fatehpur,week47,week103,month5,month13
+UP_Firozabad,week37,week104,month5,month13
+UP_Gautam Buddha Nagar,week54,week106,month6,month13
+UP_Ghaziabad,week40,week106,month5,month13
+UP_Ghazipur,week32,week104,month4,month13
+UP_Gonda,week34,week104,month4,month13
+UP_Gorakhpur,week32,week104,month5,month13
+UP_Hamirpur,week36,week106,month5,month13
+UP_Hapur,week43,week108,month5,month13
+UP_Hardoi,week39,week105,month5,month13
+UP_Hathras,week36,week108,month5,month13
+UP_Jalaun,week28,week106,month5,month13
+UP_Jaunpur,week26,week103,month4,month13
+UP_Jhansi,week40,week106,month5,month13
+UP_Kannauj,week27,week106,month4,month13
+UP_Kanpur Dehat,week37,week103,month5,month13
+UP_Kanpur Nagar,week39,week104,month5,month13
+UP_Kasganj,week38,week106,month5,month13
+UP_Kaushambi,week40,week103,month5,month13
+UP_Kushinagar,week37,week108,month5,month13
+UP_Lakhimpur Kheri,week41,week104,month5,month13
+UP_Lalitpur,week37,week106,month5,month13
+UP_Lucknow,week42,week102,month5,month13
+UP_Maharajganj,week35,week109,month5,month13
+UP_Mahoba,week57,week106,month5,month13
+UP_Mainpuri,week39,week104,month5,month13
+UP_Mathura,week41,week105,month5,month13
+UP_Mau,week38,week104,month5,month13
+UP_Meerut,week60,week108,month5,month13
+UP_Mirzapur,week27,week103,month4,month13
+UP_Moradabad,week35,week106,month5,month13
+UP_Muzaffarnagar,week41,week108,month5,month13
+UP_Pilibhit,week31,week108,month4,month13
+UP_Pratapgarh,week40,week107,month5,month13
+UP_Prayagraj,week40,week102,month5,month12
+UP_Rae Bareli,week39,week103,month5,month13
+UP_Rampur,week35,week106,month5,month13
+UP_Saharanpur,week38,week107,month5,month13
+UP_Sambhal,week35,week106,month5,month13
+UP_Sant Kabir Nagar,week29,week104,month4,month13
+UP_Shahjahanpur,week38,week104,month5,month13
+UP_Shamli,week39,week106,month5,month13
+UP_Shrawasti,week32,week104,month4,month13
+UP_Siddharthnagar,week31,week107,month4,month13
+UP_Sitapur,week38,week103,month5,month13
+UP_Sonbhadra,week39,week104,month5,month13
+UP_Sultanpur,week31,week103,month4,month13
+UP_Unnao,week39,week105,month5,month13
+UP_Varanasi,week30,week103,month5,month13
+UT_Almora,week43,week110,month5,month13
+UT_Bageshwar,week41,week107,month5,month13
+UT_Chamoli,week56,week110,month6,month13
+UT_Champawat,week44,week107,month6,month13
+UT_Dehradun,week41,week107,month5,month13
+UT_Haridwar,week40,week104,month5,month13
+UT_Nainital,week41,week108,month5,month13
+UT_Pauri Garhwal,week56,week110,month7,month13
+UT_Pithoragarh,week61,week109,month8,month13
+UT_Rudraprayag,week54,week110,month7,month13
+UT_Tehri Garhwal,week38,week109,month5,month13
+UT_Udham Singh Nagar,week40,week108,month5,month13
+UT_Uttarkashi,week41,week108,month5,month13
+WB_Alipurduar,week37,week113,month5,month14
+WB_Bankura,week42,week112,month5,month13
+WB_Birbhum,week35,week108,month6,month13
+WB_Cooch Behar,week37,week113,month5,month14
+WB_Dakshin Dinajpur,week33,week108,month4,month13
+WB_Darjeeling,week58,week112,month7,month13
+WB_Hooghly,week60,week111,month7,month13
+WB_Howrah,week51,week112,month6,month13
+WB_Jalpaiguri,week58,week113,month7,month14
+WB_Jhargram,week49,week112,month6,month13
+WB_Kalimpong,week31,week113,month6,month14
+WB_Kolkata,week53,week109,month7,month13
+WB_Malda,week31,week104,month6,month13
+WB_Murshidabad,week33,week104,month6,month13
+WB_Nadia,week61,week112,month7,month13
+WB_North 24 Parganas,week53,week110,month7,month13
+WB_Paschim Bardhaman,week39,week109,month5,month13
+WB_Paschim Medinipur,week41,week110,month5,month13
+WB_Purba Bardhaman,week52,week108,month7,month13
+WB_Purba Medinipur,week39,week109,month5,month13
+WB_Purulia,week41,week104,month5,month13
+WB_South 24 Parganas,week54,week111,month7,month13
+WB_Uttar Dinajpur,week33,week107,month6,month13

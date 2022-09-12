@@ -1,0 +1,755 @@
+District Id,Time Id,Dose 1,Dose 2
+AN_Nicobars,Overall,22171,8242
+AN_North and Middle Andaman,Overall,69920,30545
+AN_South Andaman,Overall,149553,62488
+AP_Anantapur,Overall,1477236,658804
+AP_Chittoor,Overall,1689287,721419
+AP_East Godavari,Overall,1954561,595188
+AP_Guntur,Overall,1839661,646487
+AP_Krishna,Overall,1828042,623537
+AP_Kurnool,Overall,1330264,551669
+AP_Prakasam,Overall,1270429,557100
+AP_S.P.S. Nellore,Overall,1193962,540943
+AP_Srikakulam,Overall,1052101,349623
+AP_Visakhapatnam,Overall,2095515,693697
+AP_Vizianagaram,Overall,986048,239343
+AP_West Godavari,Overall,1746482,478256
+AP_Y.S.R. Kadapa,Overall,1073313,424509
+AR_Anjaw,Overall,11046,2711
+AR_Changlang,Overall,76928,18678
+AR_East Kameng,Overall,21076,6965
+AR_East Siang,Overall,51532,16687
+AR_Kamle,Overall,6329,1701
+AR_Kra Daadi,Overall,6008,2085
+AR_Kurung Kumey,Overall,8622,3159
+AR_Lepa Rada,Overall,13011,5071
+AR_Lohit,Overall,28423,7096
+AR_Longding,Overall,18115,3597
+AR_Lower Dibang Valley,Overall,30311,8464
+AR_Lower Siang,Overall,15872,4690
+AR_Lower Subansiri,Overall,25144,8680
+AR_Namsai,Overall,58436,13344
+AR_Pakke Kessang,Overall,7753,3172
+AR_Papum Pare,Overall,96770,30356
+AR_Papum Pare,Overall,96770,30356
+AR_Shi Yomi,Overall,6768,2434
+AR_Siang,Overall,13977,4499
+AR_Tawang,Overall,28085,9949
+AR_Tirap,Overall,29563,6022
+AR_Upper Dibang Valley,Overall,3927,1276
+AR_Upper Siang,Overall,17596,6716
+AR_Upper Subansiri,Overall,23449,8116
+AR_West Kameng,Overall,51358,14890
+AR_West Siang,Overall,32770,12612
+AS_Baksa,Overall,318585,47790
+AS_Barpeta,Overall,587993,149975
+AS_Biswanath,Overall,366105,64450
+AS_Bongaigaon,Overall,327846,64430
+AS_Cachar,Overall,566719,110890
+AS_Charaideo,Overall,224706,35396
+AS_Chirang,Overall,178752,36200
+AS_Darrang,Overall,340523,66753
+AS_Dhemaji,Overall,324723,67419
+AS_Dhubri,Overall,397450,79982
+AS_Dibrugarh,Overall,624407,161484
+AS_Dima Hasao,Overall,85596,23913
+AS_Goalpara,Overall,347542,61357
+AS_Golaghat,Overall,539445,99431
+AS_Hailakandi,Overall,285001,50434
+AS_Hojai,Overall,371205,76654
+AS_Jorhat,Overall,579828,109225
+AS_Kamrup,Overall,688899,166525
+AS_Kamrup Metropolitan,Overall,1063439,380418
+AS_Karbi Anglong,Overall,165151,41589
+AS_Karimganj,Overall,335691,69485
+AS_Kokrajhar,Overall,304779,57497
+AS_Lakhimpur,Overall,501228,90131
+AS_Majuli,Overall,109755,31336
+AS_Morigaon,Overall,389093,62418
+AS_Nagaon,Overall,692092,143241
+AS_Nalbari,Overall,315913,59104
+AS_Sivasagar,Overall,387768,74861
+AS_Sonitpur,Overall,623579,149943
+AS_South Salmara Mankachar,Overall,170958,10316
+AS_Tinsukia,Overall,463417,89629
+AS_Udalguri,Overall,266435,49855
+AS_West Karbi Anglong,Overall,82883,14839
+BR_Araria,Overall,627190,116612
+BR_Arwal,Overall,240980,31885
+BR_Aurangabad,Overall,596250,79136
+BR_Banka,Overall,541851,85656
+BR_Begusarai,Overall,763584,123869
+BR_Bhagalpur,Overall,946407,187960
+BR_Bhojpur,Overall,658278,110785
+BR_Buxar,Overall,449222,85869
+BR_Darbhanga,Overall,1070803,204950
+BR_East Champaran,Overall,1331375,237766
+BR_Gaya,Overall,1042097,217191
+BR_Gopalganj,Overall,587547,99523
+BR_Jamui,Overall,422884,65026
+BR_Jehanabad,Overall,307876,59080
+BR_Kaimur,Overall,371287,50778
+BR_Katihar,Overall,687298,99904
+BR_Khagaria,Overall,401010,61994
+BR_Kishanganj,Overall,375700,56019
+BR_Lakhisarai,Overall,240414,37178
+BR_Madhepura,Overall,446920,77698
+BR_Madhubani,Overall,1079682,211105
+BR_Munger,Overall,408513,70661
+BR_Muzaffarpur,Overall,1161419,214418
+BR_Nalanda,Overall,820353,183406
+BR_Nawada,Overall,528396,90213
+BR_Patna,Overall,2629965,944051
+BR_Purnia,Overall,903441,188827
+BR_Rohtas,Overall,731930,125440
+BR_Saharsa,Overall,463019,86225
+BR_Samastipur,Overall,1057057,196391
+BR_Saran,Overall,1117034,230723
+BR_Sheikhpura,Overall,177583,32394
+BR_Sheohar,Overall,184640,41682
+BR_Sitamarhi,Overall,790760,132829
+BR_Siwan,Overall,983027,195738
+BR_Supaul,Overall,497149,92111
+BR_Vaishali,Overall,868702,150618
+BR_West Champaran,Overall,902663,113764
+CH_Chandigarh,Overall,777153,276138
+CT_Balod,Overall,368219,119451
+CT_Baloda Bazar,Overall,360304,91879
+CT_Balrampur,Overall,197111,41792
+CT_Bametara,Overall,182262,47074
+CT_Bastar,Overall,275967,77870
+CT_Bijapur,Overall,80396,29283
+CT_Bilaspur,Overall,618683,223205
+CT_Dakshin Bastar Dantewada,Overall,114483,38175
+CT_Dhamtari,Overall,329181,101577
+CT_Durg,Overall,655878,300373
+CT_Gariaband,Overall,171657,41905
+CT_Gaurela Pendra Marwahi,Overall,113662,25653
+CT_Janjgir Champa,Overall,460386,139186
+CT_Jashpur,Overall,271650,71324
+CT_Kabeerdham,Overall,260136,65536
+CT_Kondagaon,Overall,174813,34636
+CT_Korba,Overall,426795,131188
+CT_Koriya,Overall,186347,51228
+CT_Mahasamund,Overall,472979,150938
+CT_Mungeli,Overall,197440,52552
+CT_Narayanpur,Overall,35483,12329
+CT_Raigarh,Overall,920970,285199
+CT_Raipur,Overall,1193417,441109
+CT_Rajnandgaon,Overall,705799,184009
+CT_Sukma,Overall,107466,35238
+CT_Surajpur,Overall,231296,51570
+CT_Surguja,Overall,339635,107390
+CT_Uttar Bastar Kanker,Overall,249095,74285
+DL_Central Delhi,Overall,885767,328492
+DL_East Delhi,Overall,695552,263718
+DL_New Delhi,Overall,693194,341822
+DL_North Delhi,Overall,726501,245336
+DL_North East Delhi,Overall,565467,177439
+DL_North West Delhi,Overall,1059214,416354
+DL_Shahdara,Overall,618591,246244
+DL_South Delhi,Overall,945159,369212
+DL_South East Delhi,Overall,852274,337220
+DL_South West Delhi,Overall,985947,397916
+DL_West Delhi,Overall,915532,407934
+DN_Dadra and Nagar Haveli,Overall,357290,51766
+DN_Daman,Overall,213426,45139
+DN_Diu,Overall,38061,16763
+GA_North Goa,Overall,543039,176475
+GA_South Goa,Overall,598983,194815
+GJ_Ahmedabad,Overall,963905,233952
+GJ_Ahmedabad,Overall,963905,233952
+GJ_Amreli,Overall,681117,235123
+GJ_Anand,Overall,1119905,328157
+GJ_Aravalli,Overall,527873,197111
+GJ_Banaskantha,Overall,1557382,582876
+GJ_Bharuch,Overall,896223,241123
+GJ_Bhavnagar,Overall,723459,220135
+GJ_Bhavnagar,Overall,723459,220135
+GJ_Botad,Overall,320257,67128
+GJ_Chhota Udaipur,Overall,469124,166351
+GJ_Dahod,Overall,855899,371410
+GJ_Dang,Overall,74967,18762
+GJ_Devbhumi Dwarka,Overall,425558,139395
+GJ_Gandhinagar,Overall,641025,172304
+GJ_Gandhinagar,Overall,641025,172304
+GJ_Gir Somnath,Overall,607999,155261
+GJ_Jamnagar,Overall,483928,157787
+GJ_Jamnagar,Overall,483928,157787
+GJ_Junagadh,Overall,646124,209614
+GJ_Junagadh,Overall,646124,209614
+GJ_Kheda,Overall,993708,302419
+GJ_Kutch,Overall,1023180,288473
+GJ_Mahisagar,Overall,476470,249605
+GJ_Mehsana,Overall,1014998,386217
+GJ_Morbi,Overall,468070,111442
+GJ_Narmada,Overall,315305,135785
+GJ_Navsari,Overall,703184,240507
+GJ_Panchmahal,Overall,748478,249714
+GJ_Patan,Overall,624009,200051
+GJ_Porbandar,Overall,349454,133882
+GJ_Rajkot,Overall,860503,228779
+GJ_Rajkot,Overall,860503,228779
+GJ_Sabarkantha,Overall,755524,239645
+GJ_Surat,Overall,820813,199051
+GJ_Surat,Overall,820813,199051
+GJ_Surendranagar,Overall,814425,165204
+GJ_Tapi,Overall,374118,117357
+GJ_Vadodara,Overall,899890,258830
+GJ_Vadodara,Overall,899890,258830
+GJ_Valsad,Overall,879462,281699
+HP_Bilaspur,Overall,298260,105126
+HP_Chamba,Overall,322073,90706
+HP_Hamirpur,Overall,366953,142250
+HP_Kangra,Overall,1117078,364688
+HP_Kinnaur,Overall,74624,23992
+HP_Kullu,Overall,316619,92216
+HP_Lahaul and Spiti,Overall,29078,8992
+HP_Mandi,Overall,726916,251008
+HP_Shimla,Overall,605098,200972
+HP_Sirmaur,Overall,373279,83061
+HP_Solan,Overall,639627,135057
+HP_Una,Overall,414221,136433
+HR_Ambala,Overall,685395,275961
+HR_Bhiwani,Overall,460014,119169
+HR_Charkhi Dadri,Overall,318087,98343
+HR_Faridabad,Overall,1099829,339964
+HR_Fatehabad,Overall,360738,93569
+HR_Gurugram,Overall,1624113,585367
+HR_Hisar,Overall,550378,145198
+HR_Jhajjar,Overall,427354,119590
+HR_Jind,Overall,364070,94111
+HR_Kaithal,Overall,366491,95662
+HR_Karnal,Overall,596461,211768
+HR_Kurukshetra,Overall,374492,121343
+HR_Mahendragarh,Overall,384667,120171
+HR_Nuh,Overall,168344,28408
+HR_Palwal,Overall,372680,83141
+HR_Panchkula,Overall,354096,142614
+HR_Panipat,Overall,395688,125905
+HR_Rewari,Overall,378897,139464
+HR_Rohtak,Overall,410940,131170
+HR_Sirsa,Overall,480301,137960
+HR_Sonipat,Overall,625782,210106
+HR_Yamunanagar,Overall,455783,164251
+JH_Bokaro,Overall,502796,156133
+JH_Chatra,Overall,294399,50423
+JH_Deoghar,Overall,411213,89556
+JH_Dhanbad,Overall,651287,218481
+JH_Dumka,Overall,398031,88652
+JH_East Singhbhum,Overall,819480,298521
+JH_Garhwa,Overall,314202,65098
+JH_Giridih,Overall,628755,110074
+JH_Godda,Overall,406584,72367
+JH_Gumla,Overall,296789,70110
+JH_Hazaribagh,Overall,536291,122160
+JH_Jamtara,Overall,258171,58673
+JH_Khunti,Overall,158155,49425
+JH_Koderma,Overall,281957,55196
+JH_Latehar,Overall,186055,37782
+JH_Lohardaga,Overall,141273,30595
+JH_Pakur,Overall,255357,44365
+JH_Palamu,Overall,536085,121430
+JH_Ramgarh,Overall,301266,78177
+JH_Ranchi,Overall,879811,286315
+JH_Sahibganj,Overall,279004,47286
+JH_Saraikela-Kharsawan,Overall,301166,76489
+JH_Simdega,Overall,209193,37545
+JH_West Singhbhum,Overall,398191,91302
+JK_Anantnag,Overall,413682,104365
+JK_Bandipora,Overall,159176,42870
+JK_Baramulla,Overall,459330,129125
+JK_Budgam,Overall,324707,105939
+JK_Doda,Overall,217695,46155
+JK_Ganderbal,Overall,144433,44718
+JK_Jammu,Overall,747081,350891
+JK_Kathua,Overall,323226,90464
+JK_Kishtwar,Overall,106896,32205
+JK_Kulgam,Overall,222356,65555
+JK_Kupwara,Overall,373535,66456
+JK_Pulwama,Overall,262174,75862
+JK_Punch,Overall,263110,50301
+JK_Rajouri,Overall,313151,60389
+JK_Ramban,Overall,170477,53132
+JK_Reasi,Overall,187684,39455
+JK_Samba,Overall,202890,67095
+JK_Shopiyan,Overall,124019,43929
+JK_Srinagar,Overall,514816,139229
+JK_Udhampur,Overall,315550,86562
+KA_Bagalkote,Overall,732062,210818
+KA_Ballari,Overall,1025915,325957
+KA_Belagavi,Overall,1863436,480505
+KA_Bengaluru Rural,Overall,468844,130770
+KA_Bengaluru Urban,Overall,1033630,252710
+KA_Bengaluru Urban,Overall,1033630,252710
+KA_Bidar,Overall,654235,178471
+KA_Chamarajanagara,Overall,444773,120758
+KA_Chikkaballapura,Overall,539874,177421
+KA_Chikkamagaluru,Overall,441466,178484
+KA_Chitradurga,Overall,662083,256162
+KA_Dakshina Kannada,Overall,1074113,343301
+KA_Davanagere,Overall,657220,173794
+KA_Dharwad,Overall,790315,221298
+KA_Gadag,Overall,392215,139328
+KA_Hassan,Overall,775407,253297
+KA_Haveri,Overall,551191,127668
+KA_Kalaburagi,Overall,807802,211547
+KA_Kodagu,Overall,266985,101181
+KA_Kolar,Overall,709968,197725
+KA_Koppal,Overall,522006,159684
+KA_Mandya,Overall,818099,233928
+KA_Mysuru,Overall,1518768,548407
+KA_Raichur,Overall,607058,156711
+KA_Ramanagara,Overall,523531,208842
+KA_Shivamogga,Overall,692930,231891
+KA_Tumakuru,Overall,1087288,311130
+KA_Udupi,Overall,658971,248365
+KA_Uttara Kannada,Overall,667033,214867
+KA_Vijayapura,Overall,803932,201439
+KA_Yadgir,Overall,401508,133128
+KL_Alappuzha,Overall,1199150,465473
+KL_Ernakulam,Overall,2400286,779466
+KL_Idukki,Overall,694687,231294
+KL_Kannur,Overall,1439579,523214
+KL_Kasaragod,Overall,733598,298492
+KL_Kollam,Overall,1486767,531596
+KL_Kottayam,Overall,1214112,437157
+KL_Kozhikode,Overall,1709604,612386
+KL_Malappuram,Overall,1658591,597693
+KL_Palakkad,Overall,1329886,437186
+KL_Pathanamthitta,Overall,935684,392076
+KL_Thiruvananthapuram,Overall,2099631,773710
+KL_Thrissur,Overall,1801090,653561
+KL_Wayanad,Overall,620143,214974
+LA_Kargil,Overall,83093,31651
+LA_Leh,Overall,107706,48226
+LD_Lakshadweep,Overall,52100,19815
+MH_Ahmednagar,Overall,1125785,443536
+MH_Akola,Overall,456040,186006
+MH_Amravati,Overall,747306,282059
+MH_Aurangabad,Overall,1072094,359133
+MH_Beed,Overall,661239,213358
+MH_Bhandara,Overall,534951,165682
+MH_Buldhana,Overall,692375,251064
+MH_Chandrapur,Overall,666089,198315
+MH_Dhule,Overall,566107,191440
+MH_Gadchiroli,Overall,299068,76262
+MH_Gondia,Overall,598786,161222
+MH_Hingoli,Overall,260883,69319
+MH_Jalgaon,Overall,896349,315802
+MH_Jalna,Overall,561547,179011
+MH_Kolhapur,Overall,1468541,743553
+MH_Latur,Overall,653747,226649
+MH_Mumbai,Overall,6694141,2304935
+MH_Nagpur,Overall,2111590,759196
+MH_Nanded,Overall,710283,247191
+MH_Nandurbar,Overall,445188,128744
+MH_Nashik,Overall,1701193,604507
+MH_Osmanabad,Overall,401813,154708
+MH_Palghar,Overall,686539,237791
+MH_Parbhani,Overall,481488,166472
+MH_Pune,Overall,5450546,1940790
+MH_Raigad,Overall,829467,295087
+MH_Ratnagiri,Overall,442545,181442
+MH_Sangli,Overall,1160469,463136
+MH_Satara,Overall,1158177,498847
+MH_Sindhudurg,Overall,324212,139099
+MH_Solapur,Overall,898356,341591
+MH_Thane,Overall,3227672,1174964
+MH_Wardha,Overall,505784,165492
+MH_Washim,Overall,411809,160085
+MH_Yavatmal,Overall,732473,243203
+ML_East Garo Hills,Overall,42573,11664
+ML_East Jaintia Hills,Overall,57087,15287
+ML_East Khasi Hills,Overall,291421,93242
+ML_North Garo Hills,Overall,55450,12156
+ML_Ribhoi,Overall,81500,19668
+ML_South Garo Hills,Overall,34594,10669
+ML_South West Garo Hills,Overall,66492,17288
+ML_South West Khasi Hills,Overall,31455,7874
+ML_West Garo Hills,Overall,195643,51053
+ML_West Jaintia Hills,Overall,78288,23988
+ML_West Khasi Hills,Overall,69187,24191
+MN_Bishnupur,Overall,123425,23777
+MN_Chandel,Overall,25112,8244
+MN_Churachandpur,Overall,99138,26672
+MN_Imphal East,Overall,240232,67662
+MN_Imphal West,Overall,293382,81209
+MN_Jiribam,Overall,25612,4589
+MN_Kakching,Overall,78623,19756
+MN_Kamjong,Overall,9703,2115
+MN_Kangpokpi,Overall,36536,7685
+MN_Noney,Overall,16176,4659
+MN_Pherzawl,Overall,11057,3909
+MN_Senapati,Overall,25535,5649
+MN_Tamenglong,Overall,18792,5281
+MN_Tengnoupal,Overall,23516,5726
+MN_Thoubal,Overall,138125,29873
+MN_Ukhrul,Overall,19269,6827
+MP_Agar Malwa,Overall,303572,40124
+MP_Alirajpur,Overall,258899,34821
+MP_Anuppur,Overall,330038,47389
+MP_Ashoknagar,Overall,366678,59976
+MP_Balaghat,Overall,740859,126346
+MP_Barwani,Overall,500195,68144
+MP_Betul,Overall,714723,143492
+MP_Bhind,Overall,638755,105465
+MP_Bhopal,Overall,1641963,503895
+MP_Burhanpur,Overall,357319,89028
+MP_Chhatarpur,Overall,689552,103569
+MP_Chhindwara,Overall,885067,163800
+MP_Damoh,Overall,564101,78310
+MP_Datia,Overall,384907,64482
+MP_Dewas,Overall,727919,129548
+MP_Dhar,Overall,825795,142380
+MP_Dindori,Overall,341195,48257
+MP_Guna,Overall,538898,80105
+MP_Gwalior,Overall,1050667,280699
+MP_Harda,Overall,346995,58218
+MP_Hoshangabad,Overall,578414,120334
+MP_Indore,Overall,2663955,763806
+MP_Jabalpur,Overall,1344787,370384
+MP_Jhabua,Overall,354241,55162
+MP_Katni,Overall,533042,87368
+MP_Khandwa,Overall,611095,103377
+MP_Khargone,Overall,735898,118442
+MP_Mandla,Overall,414464,59622
+MP_Mandsaur,Overall,599754,98124
+MP_Morena,Overall,739746,125317
+MP_Narsinghpur,Overall,534088,93905
+MP_Neemuch,Overall,423199,86973
+MP_Panna,Overall,423255,43111
+MP_Raisen,Overall,585348,88542
+MP_Rajgarh,Overall,729550,113868
+MP_Ratlam,Overall,675430,130948
+MP_Rewa,Overall,907140,179275
+MP_Sagar,Overall,1103150,246079
+MP_Satna,Overall,782381,159972
+MP_Sehore,Overall,733675,143947
+MP_Seoni,Overall,595894,105150
+MP_Shahdol,Overall,532536,84666
+MP_Shajapur,Overall,453888,83310
+MP_Sheopur,Overall,207583,30261
+MP_Shivpuri,Overall,626026,86938
+MP_Sidhi,Overall,420391,51615
+MP_Singrauli,Overall,435930,63863
+MP_Tikamgarh,Overall,594276,103780
+MP_Ujjain,Overall,1156431,286853
+MP_Umaria,Overall,267856,37346
+MP_Vidisha,Overall,621085,111030
+MZ_Aizawl,Overall,181077,64617
+MZ_Aizawl,Overall,181077,64617
+MZ_Champhai,Overall,70891,25692
+MZ_Kolasib,Overall,45496,15522
+MZ_Lawngtlai,Overall,40940,11199
+MZ_Lunglei,Overall,87623,31827
+MZ_Mamit,Overall,42030,13125
+MZ_Saiha,Overall,33242,8609
+MZ_Serchhip,Overall,40743,15330
+NL_Dimapur,Overall,234556,53052
+NL_Kiphire,Overall,12351,3907
+NL_Kohima,Overall,98118,27624
+NL_Longleng,Overall,19936,7055
+NL_Mokokchung,Overall,65696,23328
+NL_Mon,Overall,65628,19996
+NL_Peren,Overall,17857,6379
+NL_Phek,Overall,29461,10289
+NL_Tuensang,Overall,34839,10685
+NL_Wokha,Overall,33013,13086
+NL_Zunheboto,Overall,36119,8412
+OR_Angul,Overall,400410,88645
+OR_Balangir,Overall,571209,95131
+OR_Balasore,Overall,725318,272857
+OR_Bargarh,Overall,445724,117176
+OR_Bhadrak,Overall,573241,129431
+OR_Boudh,Overall,150510,29809
+OR_Cuttack,Overall,959688,307121
+OR_Deogarh,Overall,133154,24345
+OR_Dhenkanal,Overall,433553,95482
+OR_Gajapati,Overall,212977,46354
+OR_Ganjam,Overall,1539421,671227
+OR_Jagatsinghpur,Overall,345522,121683
+OR_Jajpur,Overall,577065,155425
+OR_Jharsuguda,Overall,274893,64220
+OR_Kalahandi,Overall,501756,130224
+OR_Kandhamal,Overall,245596,59658
+OR_Kendrapara,Overall,520062,139880
+OR_Kendujhar,Overall,603620,128225
+OR_Khordha,Overall,1534144,1047193
+OR_Koraput,Overall,571525,140590
+OR_Malkangiri,Overall,196323,38692
+OR_Mayurbhanj,Overall,686878,166320
+OR_Nabarangapur,Overall,384103,70882
+OR_Nayagarh,Overall,346831,87418
+OR_Nuapada,Overall,298415,45640
+OR_Puri,Overall,687105,171924
+OR_Rayagada,Overall,374115,73847
+OR_Sambalpur,Overall,556983,132219
+OR_Subarnapur,Overall,257654,52744
+OR_Sundargarh,Overall,730437,196211
+PB_Amritsar,Overall,683569,212408
+PB_Barnala,Overall,165032,44244
+PB_Bathinda,Overall,332132,99537
+PB_Faridkot,Overall,192944,64086
+PB_Fatehgarh Sahib,Overall,214925,49007
+PB_Fazilka,Overall,225048,54611
+PB_Ferozepur,Overall,216899,54463
+PB_Gurdaspur,Overall,584398,218579
+PB_Hoshiarpur,Overall,778865,267392
+PB_Jalandhar,Overall,914940,331437
+PB_Kapurthala,Overall,262644,87660
+PB_Ludhiana,Overall,1334996,443684
+PB_Mansa,Overall,162418,39049
+PB_Moga,Overall,272981,65346
+PB_Pathankot,Overall,303550,101879
+PB_Patiala,Overall,620162,187604
+PB_Rupnagar,Overall,251868,61404
+PB_S.A.S. Nagar,Overall,674670,220433
+PB_Sangrur,Overall,344803,94091
+PB_Shahid Bhagat Singh Nagar,Overall,238171,79763
+PB_Sri Muktsar Sahib,Overall,281802,61793
+PB_Tarn Taran,Overall,293672,69526
+PY_Karaikal,Overall,97835,20702
+PY_Mahe,Overall,31564,13955
+PY_Puducherry,Overall,470534,128429
+PY_Yanam,Overall,27153,5662
+RJ_Ajmer,Overall,1332599,453075
+RJ_Alwar,Overall,1556633,555489
+RJ_Banswara,Overall,764212,211122
+RJ_Baran,Overall,505156,133825
+RJ_Barmer,Overall,1052998,311298
+RJ_Bharatpur,Overall,999404,261361
+RJ_Bhilwara,Overall,1014684,299818
+RJ_Bikaner,Overall,1071247,395903
+RJ_Bundi,Overall,515260,173412
+RJ_Chittorgarh,Overall,699068,202070
+RJ_Churu,Overall,843930,251749
+RJ_Dausa,Overall,705063,150721
+RJ_Dholpur,Overall,511685,137808
+RJ_Dungarpur,Overall,564034,148320
+RJ_Ganganagar,Overall,816396,285465
+RJ_Hanumangarh,Overall,789336,248756
+RJ_Jaipur,Overall,1820185,650546
+RJ_Jaipur,Overall,1820185,650546
+RJ_Jaisalmer,Overall,290570,83481
+RJ_Jalore,Overall,736844,181464
+RJ_Jhalawar,Overall,679912,159285
+RJ_Jhunjhunu,Overall,1078582,384704
+RJ_Jodhpur,Overall,1596693,577325
+RJ_Karauli,Overall,611235,157689
+RJ_Kota,Overall,981225,360514
+RJ_Nagaur,Overall,1431081,579350
+RJ_Pali,Overall,877809,281893
+RJ_Pratapgarh,Overall,414694,91612
+RJ_Rajsamand,Overall,502339,124702
+RJ_Sawai Madhopur,Overall,570922,154968
+RJ_Sikar,Overall,1335225,481518
+RJ_Sirohi,Overall,447615,152514
+RJ_Tonk,Overall,650231,180810
+RJ_Udaipur,Overall,1239263,390917
+SK_East Sikkim,Overall,254220,85715
+SK_North Sikkim,Overall,31920,9792
+SK_South Sikkim,Overall,117572,37178
+SK_West Sikkim,Overall,100351,32413
+TG_Adilabad,Overall,109566,35311
+TG_Bhadradri Kothagudem,Overall,284858,82645
+TG_Hyderabad,Overall,2641877,945774
+TG_Jagtial,Overall,233587,97043
+TG_Jangaon,Overall,111265,44268
+TG_Jayashankar Bhupalapally,Overall,145715,45952
+TG_Jogulamba Gadwal,Overall,82852,26945
+TG_Kamareddy,Overall,248776,98094
+TG_Karimnagar,Overall,417613,172877
+TG_Khammam,Overall,462043,108587
+TG_Komaram Bheem,Overall,73488,23564
+TG_Mahabubabad,Overall,192949,67601
+TG_Mahabubnagar,Overall,170291,65435
+TG_Mancherial,Overall,217938,66352
+TG_Medak,Overall,188164,60179
+TG_Medchal Malkajgiri,Overall,1651153,563116
+TG_Mulugu,Overall,98620,31334
+TG_Nagarkurnool,Overall,148721,54137
+TG_Nalgonda,Overall,353623,83708
+TG_Narayanpet,Overall,63676,17307
+TG_Nirmal,Overall,175913,84845
+TG_Nizamabad,Overall,350674,122051
+TG_Peddapalli,Overall,294273,79835
+TG_Rajanna Sircilla,Overall,170075,71250
+TG_Ranga Reddy,Overall,1697361,567045
+TG_Sangareddy,Overall,383317,121009
+TG_Siddipet,Overall,314177,125441
+TG_Suryapet,Overall,262583,82010
+TG_Vikarabad,Overall,128723,42252
+TG_Wanaparthy,Overall,93098,34544
+TG_Warangal Rural,Overall,147065,35710
+TG_Warangal Urban,Overall,492033,142361
+TG_Yadadri Bhuvanagiri,Overall,264416,129301
+TN_Ariyalur,Overall,196610,39451
+TN_Chengalpattu,Overall,779469,224656
+TN_Chennai,Overall,3320488,1308558
+TN_Coimbatore,Overall,1733689,423763
+TN_Cuddalore,Overall,632276,126445
+TN_Dharmapuri,Overall,456329,79716
+TN_Dindigul,Overall,342794,74502
+TN_Dindigul,Overall,342794,74502
+TN_Erode,Overall,801364,144035
+TN_Kallakurichi,Overall,336386,53124
+TN_Kancheepuram,Overall,323467,51847
+TN_Kanyakumari,Overall,616206,133804
+TN_Karur,Overall,331662,63095
+TN_Krishnagiri,Overall,644752,123521
+TN_Madurai,Overall,826057,212560
+TN_Nagapattinam,Overall,439207,70025
+TN_Namakkal,Overall,602855,134592
+TN_Nilgiris,Overall,417736,115340
+TN_Perambalur,Overall,181322,34392
+TN_Pudukkottai,Overall,216714,30197
+TN_Pudukkottai,Overall,216714,30197
+TN_Ramanathapuram,Overall,205505,38572
+TN_Ramanathapuram,Overall,205505,38572
+TN_Ranipet,Overall,272554,50618
+TN_Salem,Overall,309203,87713
+TN_Salem,Overall,309203,87713
+TN_Sivaganga,Overall,394696,63886
+TN_Tenkasi,Overall,351665,64232
+TN_Thanjavur,Overall,632544,114204
+TN_Theni,Overall,341489,61065
+TN_Thiruvallur,Overall,235801,61112
+TN_Thiruvallur,Overall,235801,61112
+TN_Thiruvarur,Overall,365240,56059
+TN_Thoothukkudi,Overall,210525,44149
+TN_Thoothukkudi,Overall,210525,44149
+TN_Tiruchirappalli,Overall,856261,206742
+TN_Tirunelveli,Overall,397509,83852
+TN_Tirupathur,Overall,297524,65492
+TN_Tiruppur,Overall,861958,158728
+TN_Tiruvannamalai,Overall,260211,33940
+TN_Tiruvannamalai,Overall,260211,33940
+TN_Vellore,Overall,426952,129674
+TN_Viluppuram,Overall,469020,78436
+TN_Virudhunagar,Overall,351488,73901
+TN_Virudhunagar,Overall,351488,73901
+TR_Dhalai,Overall,252360,64812
+TR_Gomati,Overall,273755,78788
+TR_Khowai,Overall,192006,59688
+TR_North Tripura,Overall,275630,89625
+TR_Sipahijala,Overall,325581,106269
+TR_South Tripura,Overall,297868,108738
+TR_Unokoti,Overall,169273,48797
+TR_West Tripura,Overall,661742,296988
+UP_Agra,Overall,1286013,260093
+UP_Aligarh,Overall,879332,170904
+UP_Ambedkar Nagar,Overall,580644,86340
+UP_Amethi,Overall,550131,111616
+UP_Amroha,Overall,455001,74104
+UP_Auraiya,Overall,345758,53685
+UP_Ayodhya,Overall,625641,128420
+UP_Azamgarh,Overall,1177519,183313
+UP_Baghpat,Overall,500558,98539
+UP_Bahraich,Overall,1021948,140679
+UP_Ballia,Overall,638406,126359
+UP_Balrampur,Overall,611261,120162
+UP_Banda,Overall,472067,56921
+UP_Barabanki,Overall,854277,107893
+UP_Bareilly,Overall,1192706,255022
+UP_Basti,Overall,738872,112692
+UP_Bhadohi,Overall,433128,71319
+UP_Bijnor,Overall,984633,168028
+UP_Budaun,Overall,621136,107447
+UP_Bulandshahr,Overall,1114289,182415
+UP_Chandauli,Overall,476438,64521
+UP_Chitrakoot,Overall,290019,26239
+UP_Deoria,Overall,735041,144888
+UP_Etah,Overall,404094,57294
+UP_Etawah,Overall,406155,67567
+UP_Farrukhabad,Overall,438026,70242
+UP_Fatehpur,Overall,665016,109878
+UP_Firozabad,Overall,595640,97324
+UP_Gautam Buddha Nagar,Overall,1495549,417904
+UP_Ghaziabad,Overall,1466567,360176
+UP_Ghazipur,Overall,966449,124321
+UP_Gonda,Overall,1082516,148675
+UP_Gorakhpur,Overall,1361724,290432
+UP_Hamirpur,Overall,345661,54483
+UP_Hapur,Overall,405147,78941
+UP_Hardoi,Overall,971147,111004
+UP_Hathras,Overall,435250,74745
+UP_Jalaun,Overall,474672,71515
+UP_Jaunpur,Overall,1111143,200376
+UP_Jhansi,Overall,627082,131279
+UP_Kannauj,Overall,425012,43082
+UP_Kanpur Dehat,Overall,450616,63506
+UP_Kanpur Nagar,Overall,1239842,326605
+UP_Kasganj,Overall,330678,46221
+UP_Kaushambi,Overall,343150,61376
+UP_Kushinagar,Overall,806471,150997
+UP_Lakhimpur Kheri,Overall,847126,103259
+UP_Lalitpur,Overall,328169,36628
+UP_Lucknow,Overall,1821070,619293
+UP_Maharajganj,Overall,606907,104819
+UP_Mahoba,Overall,326319,53494
+UP_Mainpuri,Overall,426889,60834
+UP_Mathura,Overall,767841,163766
+UP_Mau,Overall,512224,98849
+UP_Meerut,Overall,1269575,351841
+UP_Mirzapur,Overall,778257,118334
+UP_Moradabad,Overall,754927,172662
+UP_Muzaffarnagar,Overall,774105,134968
+UP_Pilibhit,Overall,536770,95175
+UP_Pratapgarh,Overall,696692,114109
+UP_Prayagraj,Overall,1266960,321929
+UP_Rae Bareli,Overall,588609,85959
+UP_Rampur,Overall,470935,86935
+UP_Saharanpur,Overall,1009952,223448
+UP_Sambhal,Overall,434513,69516
+UP_Sant Kabir Nagar,Overall,366044,58503
+UP_Shahjahanpur,Overall,703475,117738
+UP_Shamli,Overall,354356,69630
+UP_Shrawasti,Overall,353971,38559
+UP_Siddharthnagar,Overall,794349,110027
+UP_Sitapur,Overall,913333,139012
+UP_Sonbhadra,Overall,394976,80932
+UP_Sultanpur,Overall,579009,116721
+UP_Unnao,Overall,701535,121936
+UP_Varanasi,Overall,1211087,323122
+UT_Almora,Overall,331104,125210
+UT_Bageshwar,Overall,177418,62798
+UT_Chamoli,Overall,244164,95710
+UT_Champawat,Overall,169777,58857
+UT_Dehradun,Overall,1197562,429872
+UT_Haridwar,Overall,1025709,242064
+UT_Nainital,Overall,590304,196063
+UT_Pauri Garhwal,Overall,350769,136171
+UT_Pithoragarh,Overall,261334,85740
+UT_Rudraprayag,Overall,163401,50319
+UT_Tehri Garhwal,Overall,329570,109745
+UT_Udham Singh Nagar,Overall,902550,198124
+UT_Uttarkashi,Overall,214992,77770
+WB_Alipurduar,Overall,447948,176857
+WB_Bankura,Overall,618207,238891
+WB_Bankura,Overall,618207,238891
+WB_Birbhum,Overall,685909,244327
+WB_Birbhum,Overall,685909,244327
+WB_Cooch Behar,Overall,540728,230414
+WB_Dakshin Dinajpur,Overall,428349,200544
+WB_Darjeeling,Overall,820802,293071
+WB_Hooghly,Overall,1531401,696875
+WB_Howrah,Overall,1393831,499779
+WB_Jalpaiguri,Overall,540413,172160
+WB_Jhargram,Overall,290492,78618
+WB_Kalimpong,Overall,158502,62535
+WB_Kolkata,Overall,3950510,1427384
+WB_Malda,Overall,750680,296541
+WB_Murshidabad,Overall,1301532,532127
+WB_Nadia,Overall,1075170,452979
+WB_North 24 Parganas,Overall,580882,241232
+WB_North 24 Parganas,Overall,580882,241232
+WB_Paschim Bardhaman,Overall,852124,285254
+WB_Paschim Medinipur,Overall,1014645,404082
+WB_Purba Bardhaman,Overall,986605,477363
+WB_Purba Medinipur,Overall,704374,317868
+WB_Purba Medinipur,Overall,704374,317868
+WB_Purulia,Overall,616472,229801
+WB_South 24 Parganas,Overall,816878,351350
+WB_South 24 Parganas,Overall,816878,351350
+WB_Uttar Dinajpur,Overall,570853,188970
